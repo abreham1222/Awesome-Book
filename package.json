@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/abreham1222/Awesome-Book/issues"
   },
-  "homepage": "https://github.com/abreham1222/Awesome-Book#readme"
+  "homepage": "https://github.com/abreham1222/Awesome-Book#readme",
+  "devDependencies": {
+    "hint": "^7.1.3"
+  }
 }
